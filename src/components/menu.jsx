@@ -13,10 +13,13 @@ export default function Menu() {
       <nav className= "nav">
         <ul>
           <li><Link href={'/'} >Home</Link></li>
-          <li><Link href={'/'} >página1</Link></li>
-          <li><Link href={'/'} >página1</Link></li>
-          <li><Link href={'/'} >página1</Link></li>
-          <li><Link href={'/'} id="linkLogin">Login</Link></li>
+          <li><Link href={'/Sobre'} >Sobre</Link></li>
+          <li><Link href={'/Doencas'} >Doenças</Link></li>
+          <li><Link href={'/Equipe'} >Equipe</Link></li>
+          <li><Link href={'/javaApi'} >Tabela Api</Link></li>
+          <li><Link href={'/javaApi2'} >Tabela Api2</Link></li>
+          <li><Link href={'/javaApi3'} >Tabela Api3</Link></li>
+          <li><Link href={'/Login'} id="linkLogin">Login</Link></li>
         </ul>
       </nav>
     </header>

@@ -22,5 +22,8 @@ export default function Home() {
         Convidamos você a explorar nosso site para aprender mais sobre DNTs, entender sua importância e descobrir como podemos trabalhar juntos para combater essas doenças. Junte-se a nós nesta jornada para um futuro mais saudável!
       </p>
     </div>
+    
+    
+    
   )
 }
